@@ -18,7 +18,7 @@ function React1 () {
         <div className="w3-content">
           <div className="text-header">
             <h1 className="style-h1">
-              <b>JANE BLOGLIFE</b>
+              <b>JANE BLOGLIFE sss</b>
             </h1>
             <h6 style={{fontSize: '16px'}}>Welcome to the blog of
               <span className="span-top">
